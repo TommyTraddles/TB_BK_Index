@@ -21,7 +21,7 @@
 
 ### 👍 6_exercise-mongoose-songs
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/blob/master/exercise-mongoose-songs/index.md). | 
-[Solution](https://github.com/TommyTraddles/TB_BK-Mongoose-songs). 🧨 Pte. final factor.
+[Solution](https://github.com/TommyTraddles/TB_BK-Mongoose-songs).
 
 ### ⛩ 7_exercise-upload-files
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/tree/master/exercise-upload-files). |
