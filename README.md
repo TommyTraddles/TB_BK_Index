@@ -7,19 +7,19 @@
 ### ⛩ 2_express-introduction
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/tree/master/express-introduction). | 
 
-### 👍 3_exercise-mongodb-queries
+### 👍 3_mongodb-introduction
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/blob/master/exercise-mongodb-queries/exercise.md). |
 [Solution](https://github.com/TommyTraddles/TB_BK-Mongo-queries/blob/main/answers.md).
 
-### 👍 4_mongoose
+### 👍 4_exercise-library
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/blob/master/mongoose/index.md). |
 [Solution](https://github.com/TommyTraddles/TB_BK-Mongoose).
 
-### 👍 5_exercise-mongoose-restaurants
+### 👍 5_exercise-restaurants
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/tree/master/exercise-mongoose-restaurants). |
 [Solution](https://github.com/TommyTraddles/TB_BK-Mongoose-restaurant).
 
-### 👍 6_exercise-mongoose-songs
+### 👍 6_exercise-songs
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/blob/master/exercise-mongoose-songs/index.md). | 
 [Solution](https://github.com/TommyTraddles/TB_BK-Mongoose-songs).
 
@@ -29,7 +29,7 @@
 ### ⛩ 8-exercise-astronomy
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-back/tree/master/exercise-astronomy). |
 
-### 👍 9-postgres-introduction
+### 👍 9-postgreSQL-introduction
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/blob/master/05-07-2021-postgres-introduction/README.md). |
 [Solution](https://github.com/TommyTraddles/TB_BK_postgres-intro/blob/main/answers.sql). 🧨 Pte. ejercicios a partir del 24.
 
