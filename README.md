@@ -34,9 +34,9 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/blob/master/05-07-2021-postgres-introduction/README.md). |
 [Solution](https://github.com/TommyTraddles/TB_BK_postgres-intro/blob/main/answers.sql).
 
-## 👨 10-slonik-directors
+### 👨 10-slonik-directors
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/tree/master/exercise-express-slonik). |
 
-## 🧨 11-slonik-pokemons
+### 🧨 11-slonik-pokemons
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/tree/master/exercise-slonik-pokemons). |
 
