@@ -38,6 +38,8 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/tree/master/exercise-express-slonik). |
 [Solution](https://github.com/TommyTraddles/TB_BK_slonik-movies). Doing.
 
-### 🧨 11-slonik-pokemons
+### 👨 11-slonik-pokemons
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/tree/master/exercise-slonik-pokemons). |
+[Solution](https://github.com/TommyTraddles/TB_BK_slonik-pokemons). Doing.
+
 
