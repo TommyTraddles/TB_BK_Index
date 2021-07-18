@@ -42,4 +42,6 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-sql/tree/master/exercise-slonik-pokemons). |
 [Solution](https://github.com/TommyTraddles/TB_BK_slonik-pokemons). Doing.
 
-
+### ✅ 12-auth-basics
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/express-passport-jwt).
+[Solution](https://github.com/TommyTraddles/TB_BK_auth-101).
