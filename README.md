@@ -46,8 +46,9 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/express-passport-jwt). |
 [Solution](https://github.com/TommyTraddles/TB_BK_auth-101).
 
-### 🧨 13_exercise-auth-posts
+### ✅ 13_exercise-auth-posts
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/auth-exercise). |
+[Solution](https://github.com/TommyTraddles/TB_BK_auth-posts).
 
-### 🧨 14_exercise-auth-school
+### 👨 14_exercise-auth-school
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/the-bridge-student-dashboard). |
