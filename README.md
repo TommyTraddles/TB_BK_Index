@@ -52,3 +52,4 @@
 
 ### 👨 14_exercise-auth-school
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/the-bridge-student-dashboard). |
+[Solution](https://github.com/TommyTraddles/TB_BK_auth-bridge). Doing
