@@ -54,5 +54,9 @@
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-authentication/tree/main/the-bridge-student-dashboard). |
 [Solution](https://github.com/TommyTraddles/TB_BK_auth-bridge). Doing
 
-### 👨 15_exercise-auth-cookies
+### ✅ 15_exercise-auth-cookies
+[Solution](https://github.com/TommyTraddles/TB_BK_auth-SQL).
 
+### 👨 16_exercise-august
+[Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-review-authentication/tree/master/exercise-auth-sql). |
+[Solution]().
