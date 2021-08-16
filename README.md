@@ -59,4 +59,4 @@
 
 ### 👨 16_exercise-august
 [Challenge](https://github.com/TheBridge-FullStackDeveloper/fs-pt2104-review-authentication/tree/master/exercise-auth-sql). |
-[Solution]().
+[Solution](https://github.com/TommyTraddles/-TB_BK_aug-challenge).
